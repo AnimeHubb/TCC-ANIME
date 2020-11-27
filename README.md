@@ -3,13 +3,7 @@
 #### Introdução 
 
 
-Nosso site consiste no entreterimento de nossos clientes. 
-Com animes de alta qualidade, e com dublagem absoluta.
-
-Procuramos o entretenimento , com animes para crianças adultos e
-adolescentes.<br>
- Nosso projeto consiste na pessoa assistir animes e comprar
-mangas em formato pdf.
+Nosso site é um streaming focado 100% em anime. Com animes para crianças, adolescentes e adultos. Nosso projeto consiste também numa página de mangas traduzidos em que o usuário poderá aproveitar o conteúdo extra dos animes.
 
 
 ## Casos de Uso
